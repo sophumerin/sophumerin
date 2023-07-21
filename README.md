@@ -8,6 +8,7 @@ Learning projects will also be replicated here, to document my progress.
 
 Thanks for reading!
 
+<--
 **sophumerin/sophumerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
