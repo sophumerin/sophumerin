@@ -3,7 +3,7 @@
 ### Microsoft Certified Azure Administrator Associate
 2023-10-11
 
-## AZ 104 Microsoft Azure Administrator
+## AZ 104: Microsoft Azure Administrator
 ### Monitor and back up Azure resources Learning Path Trophy
 2023-10-08
 
@@ -30,6 +30,6 @@
 2023-06-18
 
 # University of Central Florida
-## Degree Awarded
-### Bachelor in Science, Computer Engineering
+## Bachelor in Science, Computer Engineering
+### Degree Awarded
 2017-12-15
