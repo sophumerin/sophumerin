@@ -3,21 +3,21 @@
 ### Microsoft Certified Azure Administrator Associate
 2023-10-11
 
-## AZ 104 Learning Path Acheivements
-### Monitor and back up Azure resources Trophy
+## AZ 104 Microsoft Azure Administrator
+### Monitor and back up Azure resources Learning Path Trophy
 2023-10-08
 
-### Deploy and manage Azure compute resource Trophy
+### Deploy and manage Azure compute resource Learning Path Trophy
 2023-10-08
 
-### Configure and manage virtual networks for Azure administrators Trophy
+### Configure and manage virtual networks for Azure administrators Learning Path Trophy
 2023-10-08
 
-### Implement and manage storage in Azure Trophy
-10/2/2023
+### Implement and manage storage in Azure Learning Path Trophy
+2023-10-02
 
-### Manage identities and governance in Azure Trophy
-9/30/2023
+### Manage identities and governance in Azure Learning Path Trophy
+2023-09/30
 
 # Codecademy
 
