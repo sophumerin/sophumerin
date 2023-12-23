@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Sophie! I'm currently working on improving my skills while I embark on my current position as a Support Expert especially trained in Business Continuity/Disaster Recovery.
+I'm Sophie! I'm currently working on improving my skills while I embark on my current position as a Support Expert especially trained in Business Continuity networked storage appliancess.
 
-My main self-study focus is archetectural solutions based on Microsoft Azure and in the cloud.
+I'm currently working through the Codecademy Computer Science career path to keep my university education fresh.
 
 Learning projects will also be replicated here, to document my progress.
 
