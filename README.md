@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sophie! I'm currently working on improving my skills while I embark on my current position as a Support Expert especially trained in Business Continuity networked storage appliancess.
+I'm Sophie! I'm currently working on improving my skills while I embark on my current position as a Support Expert especially trained in Business Continuity networked storage appliances.
 
 I'm currently working through the Codecademy Computer Science career path to refresh my university education.
 
